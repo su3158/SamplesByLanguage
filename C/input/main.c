@@ -7,11 +7,11 @@ int main(void)
 {
     String name;
     printf("your name\n");
-    scanf("%s", name);
+    scanf("%1023s*[^\n]*c", name);
 
     String ageStr;
     printf("your age\n");
-    scanf("%s", ageStr);
+    scanf("%1023s*[^\n]*c", ageStr);
 
     int age = atoi(ageStr);
     printf("wlecome %s for %d", name, age);
