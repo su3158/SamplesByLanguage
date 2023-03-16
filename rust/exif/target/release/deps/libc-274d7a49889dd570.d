@@ -1,0 +1,11 @@
+C:\Users\su315\Projects\Testproject\Testproject\rust\exif\target\release\deps\libc-274d7a49889dd570.rmeta: C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\lib.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\macros.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\fixed_width_ints.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\windows\mod.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\windows\msvc\mod.rs
+
+C:\Users\su315\Projects\Testproject\Testproject\rust\exif\target\release\deps\liblibc-274d7a49889dd570.rlib: C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\lib.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\macros.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\fixed_width_ints.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\windows\mod.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\windows\msvc\mod.rs
+
+C:\Users\su315\Projects\Testproject\Testproject\rust\exif\target\release\deps\libc-274d7a49889dd570.d: C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\lib.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\macros.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\fixed_width_ints.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\windows\mod.rs C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\windows\msvc\mod.rs
+
+C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\lib.rs:
+C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\macros.rs:
+C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\fixed_width_ints.rs:
+C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\windows\mod.rs:
+C:\Users\su315\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.140\src\windows\msvc\mod.rs:
